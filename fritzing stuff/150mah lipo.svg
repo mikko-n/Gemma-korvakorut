@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="102.12708"
+   height="73.665894"
+   viewBox="0 0 81.70162 58.932728"
+   id="svg4999"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="150mah lipo.svg">
+  <metadata
+     id="metadata5031">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5029" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1466"
+     inkscape:window-height="775"
+     id="namedview5027"
+     showgrid="false"
+     inkscape:zoom="7.1763096"
+     inkscape:cx="24.658393"
+     inkscape:cy="39.36273"
+     inkscape:window-x="1572"
+     inkscape:window-y="16"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4999"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     id="path112_1_"
+     transform="translate(-0.00103159,0.002)">
+    <path
+       d="m 7.764,30.611 c -1.665,0 -6.082,0 -6.082,-6.767 0,-4.301 1.83,-7.431 3.602,-10.454 1.561,-2.663 3.028,-5.18 3.028,-8.255 l 0,-5.137 1.175,0 0,5.137 c 0,3.395 -1.55,6.044 -3.188,8.85 -1.693,2.892 -3.441,5.879 -3.441,9.859 -10e-4,5.588 3.192,5.588 4.908,5.588 l -0.002,1.179 0,0 z"
+       id="path5008"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="g5071"
+     transform="translate(-0.00103159,0.002)">
+    <path
+       sodipodi:nodetypes="cccsccscccccc"
+       d="m 7.752,36.115 c -2.157,0 -7.753,-2.207 -7.751,-12.265 0,-4.372 1.448,-7.264 2.854,-10.058 C 4.168,11.179 2.6220516,8.709 2.6220516,5.135 l 0,-5.131 1.176,0 0,5.132 c 0,3.854 1.4259484,6.563 0.1069484,9.185 -1.341,2.672 -2.729,5.435 -2.729,9.53 -10e-4,9.051 4.873,11.086 6.58,11.086 l 0,1.179 -0.004,0 z"
+       id="path5011"
+       inkscape:connector-curvature="0"
+       style="fill:#ff0000" />
+  </g>
+  <rect
+     width="1.175"
+     x="8.3109684"
+     y="0.00099999993"
+     height="5.1370001"
+     id="connector1pin"
+     style="fill:none" />
+  <rect
+     width="1.175"
+     x="2.5414021"
+     y="0.00099999993"
+     height="5.1370001"
+     id="connector0pin"
+     style="fill:none" />
+  <g
+     id="g5105"
+     transform="translate(-0.00103159,0.002)">
+    <path
+       style="fill:#d2d2d2"
+       inkscape:connector-curvature="0"
+       d="m 7.7808972,13.205391 c 0,-0.580487 0.4342324,-0.986391 0.8128399,-0.986391 l 72.2969979,0 c 0.540098,0 0.811942,0.336071 0.811942,0.986391 l 0,44.734581 c 0,0.522656 -0.338234,0.987482 -0.811942,0.987482 l -72.2987922,0 C 8.1505329,58.927454 7.78,58.541191 7.78,57.939972 l 8.972e-4,-44.734581 0,0 z"
+       id="path4_1_" />
+    <path
+       style="fill:#ffc900"
+       inkscape:connector-curvature="0"
+       d="m 22.009184,58.927454 -13.4145497,0 C 8.1523273,58.927454 7.78,58.540099 7.78,57.941063 l 8.972e-4,-44.734581 0,0 c 0,-0.580487 0.4342324,-0.986391 0.8146343,-0.986391 l 13.4118595,0 0,46.710637 0.0017,-0.0033 0,0 z"
+       id="path4_2_" />
+    <path
+       style="opacity:0.36000001;fill:#1d1d1d"
+       inkscape:connector-curvature="0"
+       d="m 17.930631,58.927454 -9.3359967,0 C 8.1523273,58.927454 7.78,58.540099 7.78,57.941063 l 8.972e-4,-44.734581 0,0 c 0,-0.580487 0.4342324,-0.986391 0.8146343,-0.986391 l 9.3324075,0 0,46.710637 0.0027,-0.0033 0,0 z"
+       enable-background="new    "
+       id="path4_3_" />
+    <path
+       style="opacity:0.35"
+       inkscape:connector-curvature="0"
+       d="m 9.8264545,58.468084 c -0.7204309,0 -1.6364458,-0.808535 -1.6364458,-1.772012 l 0,-4.433304 c 0,0.967841 0.9178093,2.46816 1.6364458,2.46816 l 69.8225905,0 c 0.720431,0 1.631063,-1.500319 1.631063,-2.46816 l 0,4.433304 c 0,0.963477 -0.914221,1.772012 -1.631063,1.772012 l -69.8225905,0 0,0 z"
+       enable-background="new    "
+       id="path22_1_" />
+    <path
+       style="opacity:0.35;fill:#ffffff"
+       inkscape:connector-curvature="0"
+       d="m 79.561121,12.734018 c 0.721329,0 1.634652,0.809627 1.634652,1.774195 l 0,4.430031 c 0,-0.959113 -0.916014,-2.462705 -1.634652,-2.462705 l -69.8198979,0 c -0.7213282,0 -1.6328573,1.503592 -1.6328573,2.462705 l 0,-4.430031 c 0,-0.965659 0.9151178,-1.774195 1.6328573,-1.774195 l 69.8198979,0 0,0 z"
+       enable-background="new    "
+       id="path22_2_" />
+    <g
+       id="g5099">
+      <g
+         id="g5017"
+         transform="translate(26.247097,29.236087)">
+        <text
+           style="font-size:8.75199986px;font-family:DroidSans"
+           id="text5019"
+           font-size="8.752">LP-402025</text>
+      </g>
+      <g
+         id="g5021"
+         transform="translate(24.46345,42.674093)">
+        <text
+           style="font-size:8.75199986px;font-family:DroidSans"
+           id="text5023"
+           font-size="8.752">150mAh 3.7V</text>
+      </g>
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5074"
+       y="31.391676"
+       x="18.839739"
+       style="font-size:7.20000172px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="31.391676"
+         x="18.839739"
+         id="tspan5076"
+         sodipodi:role="line">-</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5074-4"
+       y="38.384701"
+       x="17.862108"
+       style="font-size:7.20000172px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="38.384701"
+         x="17.862108"
+         id="tspan5076-0"
+         sodipodi:role="line">+</tspan></text>
+  </g>
+</svg>

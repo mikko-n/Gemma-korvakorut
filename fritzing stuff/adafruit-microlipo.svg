@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="106.29223"
+   height="43.471352"
+   id="svg5121"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="adafruit-microlipo.svg">
+  <defs
+     id="defs5123" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="61.727962"
+     inkscape:cy="75.245895"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1256"
+     inkscape:window-height="748"
+     inkscape:window-x="1661"
+     inkscape:window-y="67"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5126">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-329.08059,-502.01781)">
+    <g
+       id="g5774"
+       transform="matrix(0.27766133,0,0,0.27766133,276.09686,378.3296)">
+      <g
+         transform="translate(18.571429,0.71428572)"
+         id="g5741">
+        <rect
+           style="fill:#207bb1;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect5140"
+           width="381.83765"
+           height="155.56349"
+           x="172.73608"
+           y="445.2605"
+           rx="13.131983"
+           ry="13.131983" />
+        <g
+           id="g5716">
+          <rect
+             y="467.48386"
+             x="181.82745"
+             height="21.213203"
+             width="98.994949"
+             id="rect5650"
+             style="opacity:0.66371681;fill:#fce717;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <rect
+             y="502.8392"
+             x="193.9493"
+             height="14.142136"
+             width="84.852814"
+             id="rect5652"
+             style="opacity:0.66371681;fill:#fce717;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <rect
+             transform="scale(1,-1)"
+             y="-579.10571"
+             x="181.82745"
+             height="21.213203"
+             width="98.994949"
+             id="rect5650-9"
+             style="opacity:0.66371681;fill:#fce717;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <rect
+             transform="scale(1,-1)"
+             y="-543.75037"
+             x="193.9493"
+             height="14.142136"
+             width="84.852814"
+             id="rect5652-4"
+             style="opacity:0.66371681;fill:#fce717;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        </g>
+        <g
+           id="g5703">
+          <rect
+             ry="0"
+             rx="0"
+             y="467.48386"
+             x="471.74124"
+             height="109.09647"
+             width="71.720833"
+             id="rect5681"
+             style="opacity:0.65788467;fill:#fce7e1;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <path
+             sodipodi:nodetypes="ccccccccc"
+             inkscape:connector-curvature="0"
+             id="path5685"
+             d="m 452.56366,467.60116 0,15.98387 19.68265,1.36729 0,76.7716 -19.68265,-0.35714 0,14.91769 28.92196,0 0.35714,-108.68331 z"
+             style="fill:#fce7e1;fill-opacity:1;stroke:none" />
+          <g
+             id="g5699">
+            <rect
+               style="opacity:0.65788467;fill:#fce7e1;fill-opacity:1;stroke:none"
+               id="rect5687"
+               width="36.785713"
+               height="7.5"
+               x="490"
+               y="488.79074" />
+            <rect
+               style="opacity:0.65788467;fill:#fce7e1;fill-opacity:1;stroke:none"
+               id="rect5689"
+               width="38.214287"
+               height="7.5"
+               x="488.57144"
+               y="543.43359" />
+          </g>
+        </g>
+        <g
+           id="g5710">
+          <text
+             sodipodi:linespacing="125%"
+             id="text5691"
+             y="463.79077"
+             x="336.78574"
+             style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:1.48999989px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+             xml:space="preserve"><tspan
+               y="463.79077"
+               x="336.78574"
+               id="tspan5693"
+               sodipodi:role="line">Adafruit Microlipo</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text5695"
+             y="595.21936"
+             x="458.57141"
+             style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:1.02999997px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+             xml:space="preserve"><tspan
+               y="595.21936"
+               x="458.57141"
+               id="tspan5697"
+               sodipodi:role="line">3.7/4.2V</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g5768">
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+           x="462.50171"
+           y="560.16235"
+           id="text5760"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5762"
+             x="462.50171"
+             y="560.16235">+</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+           x="467.30075"
+           y="509.51627"
+           id="text5764"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5766"
+             x="467.30075"
+             y="509.51627">-</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
